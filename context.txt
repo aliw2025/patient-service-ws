@@ -1,0 +1,33 @@
+patient-notes-api
+│
+├── Patient
+│   ├── Create
+│   ├── Get
+│   ├── Search
+│   ├── Update
+│   └── Delete
+│
+├── Note
+│   ├── Create
+│   ├── Get
+│   ├── Update
+│   └── Delete
+│
+├── Production API response format
+├── DTOs
+├── Request validation
+├── Centralized validation messages
+├── Global exception handling
+├── Custom exceptions
+├── Consistent error responses
+├── API authentication / authorization
+├── Swagger / OpenAPI documentation
+├── Pagination
+├── Sorting
+├── Searching
+├── JPA/Hibernate
+├── Proper entity relationships
+└── Production-oriented project structure
+
+
+
